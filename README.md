@@ -54,7 +54,7 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 
 ### UML
 
-![uml](C:\Users\btwis\OneDrive\Pictures\FETCHMATES\UML.jpg)
+![uml](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/UML.jpg)
 
 ### Requirements
 
