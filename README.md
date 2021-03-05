@@ -59,7 +59,7 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 ### Requirements
 
 |Requiredment ID|Description|Test Method|TestID|
-|---:|:---||:---|:---:|
+|---|---|---|---|
 |1|The system shall as the user to log in or create a profile.| | |
 |2|The system shall allow the user to create a profile for their dog.| | |
 |2.1|The system shall validate user input to verify correct information is being inputted.| | |
