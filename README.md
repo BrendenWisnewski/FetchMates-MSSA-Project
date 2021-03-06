@@ -1,8 +1,18 @@
 # FetchMates-MSSA-Project
 This is my project for MSSA, FetchMates, a dog park scheduling app
 
+### Navigation
+
+1. [Concept](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#concept)
+2. [Wireframe Sketches](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#wireframe-sketches)
+3. [System Requirements](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#system-requirements)
+4. [Test Procedures](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#testing)
+
+
 ## Concept
 I am a dog father of two dogs, dog lover, and a dog park enthusiast. I love going to the dog park but hate going to an empty dog park. This app would allow you to schedule dog park times and give you an idea of how many other dogs will be at the park near you (San Diego Focused). Also, it will allow you to create a profile for your dog and connect with other dogs that have a similar personality to your dog. The goal is to connect with other dog owners and be an informed dog park goer. 
+
+[To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
 ## Wireframe Sketches
 
@@ -26,6 +36,8 @@ I am a dog father of two dogs, dog lover, and a dog park enthusiast. I love goin
 
 ### My Mates (Friends)
 ![my mates](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/My%20Mates.jpg)
+
+[To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
 ## System Requirements
 
@@ -73,7 +85,9 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 |3.3|The system shall allow users to schedule a time to go to the dog park using a calendar.|test|5|
 |3.4|The system shall show peak and off peak times to allow dog owners to get an idea of when the best time to bring their dog is.|test|5|
 
-### Testing
+[To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
+
+## Testing
 
 |Test ID|Requirement ID|Test Procedure|Status|Time Completed|
 |---:|:---|:---|:---:|:---|
@@ -82,6 +96,8 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 |3|2.4|Build tests to check that approriate profiles are being matched with the similar personalities|not completed| |
 |4|3.1|Build tests to verify that user responses are visiable on the map|not completed| |
 |5|3.3, 3.4|Validate user input times and allow overlapping of other user times|not completed| |
+
+[To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
 
 
