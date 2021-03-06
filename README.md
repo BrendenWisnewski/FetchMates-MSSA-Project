@@ -60,18 +60,28 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 
 |Requiredment ID|Description|Test Method|TestID|
 |---|---|---|---|
-|1|The system shall as the user to log in or create a profile.| | |
-|2|The system shall allow the user to create a profile for their dog.| | |
-|2.1|The system shall validate user input to verify correct information is being inputted.| | |
-|2.2|The system shall gather a small amount of information on the users dog to include name, weight, gender, and breed.| | |
-|2.3|The system shall ask for personality traits to describe their dog.| | |
-|2.4|The system shall match profiles with similar personalities and allow the user to chose which profiles to interact with.| | |
-|2.5|The system shall provide a messaging feature to let two profiles communicate.| | |
-|3|The system shall provide a map to provide dog park locations.| | |
-|3.1|The system shall allow user input on park ratings to allow other users to get input on dog parks in the region.| | |
-|3.2|The system shall redirect users to Google Maps for directions to the dog park.| | |
-|3.3|The system shall allow users to schedule a time to go to the dog park using a calendar.| | |
-|3.4|The system shall show peak and off peak times to allow dog owners to get an idea of when the best time to bring their dog is.| | |
+|1|The system shall ask the user to log in or create a profile.|test|1|
+|2|The system shall allow the user to create a profile for their dog.|test|2|
+|2.1|The system shall validate user input to verify correct information is being inputted.|test|2|
+|2.2|The system shall gather a small amount of information on the users dog to include name, weight, gender, and breed.|test|2|
+|2.3|The system shall ask for personality traits to describe their dog.|test|2|
+|2.4|The system shall match profiles with similar personalities and allow the user to chose which profiles to interact with.|test|3|
+|2.5|The system shall provide a messaging feature to let two profiles communicate.|inspection| |
+|3|The system shall provide a map to provide dog park locations.|inspection| |
+|3.1|The system shall allow user input on park ratings to allow other users to get input on dog parks in the region.|test|4|
+|3.2|The system shall redirect users to Google Maps for directions to the dog park.|inspection| |
+|3.3|The system shall allow users to schedule a time to go to the dog park using a calendar.|test|5|
+|3.4|The system shall show peak and off peak times to allow dog owners to get an idea of when the best time to bring their dog is.|test|5|
+
+### Testing
+
+|Test ID|Requirement ID|Test Procedure|Status|Time Completed|
+|---:|:---|:---|:---:|:---|
+|1|1|Validate login in credentials|not completed| |
+|2|2.0, 2.1, 2.3, 2.3|Validate correct information is being inputted in the text fields|not completed| |
+|3|2.4|Build tests to check that approriate proiles are being matched with the similar personalities|not completed| |
+|4|3.1|Build tests to verify that user responses are visiable on the map|not completed| |
+|5|3.3, 3.4|Validate user input times and allow overlapping of other user times|not completed| |
 
 
 
