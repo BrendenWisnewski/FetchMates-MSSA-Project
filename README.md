@@ -79,7 +79,7 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 |---:|:---|:---|:---:|:---|
 |1|1|Validate login in credentials|not completed| |
 |2|2.0, 2.1, 2.3, 2.3|Validate correct information is being inputted in the text fields|not completed| |
-|3|2.4|Build tests to check that approriate proiles are being matched with the similar personalities|not completed| |
+|3|2.4|Build tests to check that approriate profiles are being matched with the similar personalities|not completed| |
 |4|3.1|Build tests to verify that user responses are visiable on the map|not completed| |
 |5|3.3, 3.4|Validate user input times and allow overlapping of other user times|not completed| |
 
