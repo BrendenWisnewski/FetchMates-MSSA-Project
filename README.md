@@ -99,5 +99,19 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
+## Prototype
 
+These are some HTML prototype snap shots of the user interface I would like to implement. I really want my webapp to be bright and colorful and very dog centered and dog friendly. The first thing I thought of was getting a dog as the backround image when you first enter the page. It doesnt leave the user with any questions about what the weboste is about. The user will enter and understand that the webapp is for dog owners, and for people trying to find and schedule dog park times.
+
+![initial page](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Fetch%20Mates%20Home%20Page.jpg)
+
+### Welcome Page
+
+This is the idea of what I would like the first page to be. When the user enters it is very clean and simple, make an account or log in. I have not implemented the account creation page yet, that is still in process. My main focus at the time is building a welcoming page. Create an Account and Sign Up will both redirect to a account creation page. The find parks tab will redirect to a calender where users can select a park and time when they would like to attend. My Mates will redirect the user to their profile home page. About us will be a page with a mission statement and a little more about the project.
+
+![calender](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Calender%20view.jpg)
+
+### Schedule a Park Time
+
+This is the park scheduling simple concept. Using a calender the user can schedule a time and a place where they can bring their dog to the park. I started to like the idea of the calender because it is a simple and easy way for other owners to see where dog owners are planning to be that day or week. The functionality I would like to include is, when the user clicks on a day, they can input their dogs profile name, the park they would like to attend (San Diego focused), and a time they will attend.
 
