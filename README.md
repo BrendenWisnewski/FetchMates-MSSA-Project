@@ -99,5 +99,7 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
+## Prototype 
 
+![front page](C:\Users\btwis\OneDrive\Pictures\FETCHMATES\Fetch Mates Home Page.jpg)
 
