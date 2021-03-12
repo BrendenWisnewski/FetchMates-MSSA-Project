@@ -7,6 +7,7 @@ This is my project for MSSA, FetchMates, a dog park scheduling app
 2. [Wireframe Sketches](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#wireframe-sketches)
 3. [System Requirements](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#system-requirements)
 4. [Test Procedures](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#testing)
+5. [Prototype](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#prototype)
 
 
 ## Concept
@@ -115,3 +116,4 @@ This is the idea of what I would like the first page to be. When the user enters
 
 This is the park scheduling simple concept. Using a calender the user can schedule a time and a place where they can bring their dog to the park. I started to like the idea of the calender because it is a simple and easy way for other owners to see where dog owners are planning to be that day or week. The functionality I would like to include is, when the user clicks on a day, they can input their dogs profile name, the park they would like to attend (San Diego focused), and a time they will attend.
 
+[To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
