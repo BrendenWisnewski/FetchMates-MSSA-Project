@@ -18,25 +18,25 @@ I am a dog father of two dogs, dog lover, and a dog park enthusiast. I love goin
 ## Wireframe Sketches
 
 ### Start Page
-![initial page](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/InitialPage.jpg)
+![initial page](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Wireframes/InitialPage.jpg)
 
 ### Create a Profile
-![create profile](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/CreateProfile.jpg)
+![create profile](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Wireframes/CreateProfile.jpg)
 
 ### Gather more Profile Information
-![extra info](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Extra%20Info.jpg)
+![extra info](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Wireframes/Extra%20Info.jpg)
 
 ### Home Page
-![home page](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/HomePage1.jpg)
+![home page](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Wireframes/HomePage1.jpg)
 
 ### Scheduling a Park Time
-![schedule a time](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Schedule%20a%20Park%20Time.jpg)
+![schedule a time](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Wireframes/Schedule%20a%20Park%20Time.jpg)
 
 ### Find a Park
-![find a park](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Find%20a%20Park.jpg)
+![find a park](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Wireframes/Find%20a%20Park.jpg)
 
 ### My Mates (Friends)
-![my mates](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/My%20Mates.jpg)
+![my mates](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Wireframes/My%20Mates.jpg)
 
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
@@ -67,7 +67,7 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 
 ### UML
 
-![uml](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/UML.jpg)
+![uml](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/UML.jpg)
 
 ### Requirements
 
@@ -108,13 +108,31 @@ These are some HTML prototype snap shots of the user interface I would like to i
 
 This is the idea of what I would like the first page to be. When the user enters it is very clean and simple, make an account or log in. I have not implemented the account creation page yet, that is still in process. My main focus at the time is building a welcoming page. Create an Account and Sign Up will both redirect to a account creation page. The find parks tab will redirect to a calender where users can select a park and time when they would like to attend. My Mates will redirect the user to their profile home page. About us will be a page with a mission statement and a little more about the project.
 
-![initial page](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Fetch%20Mates%20Home%20Page.jpg)
+![initial page](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Prototype/Fetch%20Mates%20Home%20Page.jpg)
 
 ### Schedule a Park Time
 
 This is the park scheduling simple concept. Using a calender the user can schedule a time and a place where they can bring their dog to the park. I started to like the idea of the calender because it is a simple and easy way for other owners to see where dog owners are planning to be that day or week. The functionality I would like to include is, when the user clicks on a day, they can input their dogs profile name, the park they would like to attend (San Diego focused), and a time they will attend.
 
-![calender](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Calender%20view.jpg)
+![calender](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Prototype/Calender%20view.jpg)
+
+
+[To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
+
+
+## Database In Action
+
+### Dogs in the Database So Far
+![create dog](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Database%20in%20Action/Create%20Dog%20Information.jpg)
+
+### Create a New Dog
+![add in dog](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Database%20in%20Action/Adding%20in%20Dog%20Information.jpg)
+
+### Dogs Who Have Scheduled
+![park](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Database%20in%20Action/Scheduling%20the%20Park.jpg)
+
+### Schedule a Park Time
+![schedule](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Database%20in%20Action/Creating%20a%20Dog%20Park%20Visit.jpg)
 
 
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
