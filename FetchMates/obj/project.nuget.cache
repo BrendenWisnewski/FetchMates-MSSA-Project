@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1c/CRAVTuHrmgbnLF51/YpmVUoW2Vlb/ruXAZFSAAxQL3MpkET2QaqUwD5BqSaDg4qhR94uLIafmm5tnSpBmnw==",
+  "dgSpecHash": "0qwiuU/LVq5rQ/mg2MaV/IWgGGAg7nnwX+hgwez4R2sFYAGLbRhtNVOtXstovnn+AQ00sqK2wAZKCb4J9+Q7vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\btwis\\OneDrive\\Documents\\Microsoft Press\\source\\repos\\FetchMates\\FetchMates.csproj",
+  "projectFilePath": "C:\\Users\\btwis\\OneDrive\\Documents\\GitHub\\FetchMates-MSSA-Project\\FetchMates\\FetchMates.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\btwis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\btwis\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
