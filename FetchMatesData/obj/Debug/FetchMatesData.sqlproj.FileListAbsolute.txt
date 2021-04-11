@@ -1,0 +1,5 @@
+C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\bin\Debug\FetchMatesData.dacpac
+C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\bin\Debug\FetchMatesData.dll
+C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\bin\Debug\FetchMatesData.pdb
+C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\obj\Debug\FetchMatesData.dll
+C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\obj\Debug\FetchMatesData.pdb
