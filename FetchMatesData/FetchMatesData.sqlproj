@@ -60,5 +60,6 @@
   <ItemGroup>
     <Build Include="Dogs.sql" />
     <Build Include="DogParkVisits.sql" />
+    <Build Include="DeleteOnSchedule.sql" />
   </ItemGroup>
 </Project>

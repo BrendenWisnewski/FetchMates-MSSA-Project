@@ -7,6 +7,7 @@ namespace FetchMates.Models
 {
     public partial class DogParkVisit
     {
+        public int VisitId { get; set; }
         public int DogId { get; set; }
         public string ParkName { get; set; }
         public DateTime DayAndTime { get; set; }

@@ -54,16 +54,16 @@ namespace FetchMates.Models
 
             modelBuilder.Entity<DogParkVisit>(entity =>
             {
-                entity.HasKey(e => e.DogId)
-                    .HasName("PK__DogParkV__46F46EC9F272B254");
+                entity.HasKey(e => e.VisitId)
+                    .HasName("PK__DogParkV__4D3AA1BE3A3AEE6A");
 
-                entity.Property(e => e.DogId)
-                    .ValueGeneratedNever()
-                    .HasColumnName("DogID");
+                entity.Property(e => e.VisitId).HasColumnName("VisitID");
 
                 entity.Property(e => e.DayAndTime)
                     .HasColumnType("datetime")
                     .HasColumnName("Day And Time");
+
+                entity.Property(e => e.DogId).HasColumnName("DogID");
 
                 entity.Property(e => e.ParkName)
                     .IsRequired()
@@ -72,10 +72,10 @@ namespace FetchMates.Models
                     .HasColumnName("Park Name");
 
                 entity.HasOne(d => d.Dog)
-                    .WithOne(p => p.DogParkVisit)
-                    .HasForeignKey<DogParkVisit>(d => d.DogId)
+                    .WithMany(p => p.DogParkVisits)
+                    .HasForeignKey(d => d.DogId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_dbo.Dog");
+                    .HasConstraintName("FK__DogParkVi__DogID__25869641");
             });
 
             OnModelCreatingPartial(modelBuilder);

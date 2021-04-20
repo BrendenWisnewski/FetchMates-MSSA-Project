@@ -7,11 +7,16 @@ namespace FetchMates.Models
 {
     public partial class Dog
     {
+        public Dog()
+        {
+            DogParkVisits = new HashSet<DogParkVisit>();
+        }
+
         public int DogId { get; set; }
         public string DogBreed { get; set; }
         public string DogName { get; set; }
         public int DogWeight { get; set; }
 
-        public virtual DogParkVisit DogParkVisit { get; set; }
+        public virtual ICollection<DogParkVisit> DogParkVisits { get; set; }
     }
 }
