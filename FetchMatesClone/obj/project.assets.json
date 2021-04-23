@@ -7822,11 +7822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\btwis\\OneDrive\\Documents\\Microsoft Press\\source\\repos\\FetchMatesClone\\FetchMatesClone.csproj",
+      "projectUniqueName": "C:\\Users\\btwis\\OneDrive\\Documents\\GitHub\\FetchMates-MSSA-Project\\FetchMatesClone\\FetchMatesClone.csproj",
       "projectName": "FetchMatesClone",
-      "projectPath": "C:\\Users\\btwis\\OneDrive\\Documents\\Microsoft Press\\source\\repos\\FetchMatesClone\\FetchMatesClone.csproj",
+      "projectPath": "C:\\Users\\btwis\\OneDrive\\Documents\\GitHub\\FetchMates-MSSA-Project\\FetchMatesClone\\FetchMatesClone.csproj",
       "packagesPath": "C:\\Users\\btwis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\btwis\\OneDrive\\Documents\\Microsoft Press\\source\\repos\\FetchMatesClone\\obj\\",
+      "outputPath": "C:\\Users\\btwis\\OneDrive\\Documents\\GitHub\\FetchMates-MSSA-Project\\FetchMatesClone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\btwis\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,3 +8,4 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\FetchMatesData.pdb
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Debug\FetchMatesData.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Debug\FetchMatesData.pdb
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\FetchMatesData.sqlprojAssemblyReference.cache

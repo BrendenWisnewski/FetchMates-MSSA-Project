@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchMatesClone", "FetchMatesClone.csproj", "{F99D10A8-93B3-40F3-A957-C004FEF34FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FetchMatesClone", "FetchMatesClone.csproj", "{F99D10A8-93B3-40F3-A957-C004FEF34FDF}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FetchMatesData", "..\..\..\..\GitHub\FetchMates-MSSA-Project\FetchMatesData\FetchMatesData.sqlproj", "{B5993A6C-C1FB-4072-AE28-F4AC178F6BFA}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FetchMatesData", "..\FetchMatesData\FetchMatesData.sqlproj", "{B5993A6C-C1FB-4072-AE28-F4AC178F6BFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

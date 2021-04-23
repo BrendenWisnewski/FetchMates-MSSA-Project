@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o9J/P7pLO5+Qq6EFcpcCQhlmssgYI4qe4Xpx+ePUnNzR+61+KUMD37uilzVjY4u6lVltW9iShYgIyzF6MCobkQ==",
+  "dgSpecHash": "sqPamS6CuvliI7aDv87R7sIGcmodtrfXDFbPtz5sjLlt7ZOBklAvdjoRth9He6vOqWpJuoRQjKWLlRwEDIxIbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\btwis\\OneDrive\\Documents\\Microsoft Press\\source\\repos\\FetchMatesClone\\FetchMatesClone.csproj",
+  "projectFilePath": "C:\\Users\\btwis\\OneDrive\\Documents\\GitHub\\FetchMates-MSSA-Project\\FetchMatesClone\\FetchMatesClone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\btwis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\btwis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
