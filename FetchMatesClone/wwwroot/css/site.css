@@ -39,9 +39,21 @@ html {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        background-image: url("/images/Playingdogd.png");
+        background-image: url("/images/coolapple.jpg");
         min-height: 100%;
+        font-style: initial;
+        font-family: Cooper;
+        color: aliceblue;
     }
+}
+
+.color{
+    color:aliceblue
+}
+
+.home-try{
+    color: floralwhite;
+    text-align:left
 }
 
 .border-top {

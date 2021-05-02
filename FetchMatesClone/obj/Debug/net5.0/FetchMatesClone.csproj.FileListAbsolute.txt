@@ -335,7 +335,6 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.csprojAssemblyReference.cache
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.AssemblyInfoInputs.cache
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.AssemblyInfo.cs
@@ -377,3 +376,6 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\ref\FetchMatesClone.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.pdb
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.genruntimeconfig.cache
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.csprojAssemblyReference.cache
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SendGrid.dll
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\StarkbankEcdsa.dll

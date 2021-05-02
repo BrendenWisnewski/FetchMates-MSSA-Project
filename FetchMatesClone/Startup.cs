@@ -13,7 +13,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using FetchMatesClone.Models;
-
+using Microsoft.AspNetCore.Identity.UI.Services;
+using FetchMatesClone.Services;
 
 namespace FetchMatesClone
 {
@@ -38,6 +39,9 @@ namespace FetchMatesClone
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddDbContext<FetchMatesDataContext>(opt => opt.UseSqlServer("Data Source=(localdb)\\ProjectsV13;Initial Catalog=FetchMatesData;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"));
+
+            services.AddTransient<IEmailSender, EmailSender>();
+            services.Configure<AuthMessageSenderOptions>(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

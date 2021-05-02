@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 
 #nullable disable
 
 namespace FetchMatesClone.Models
 {
-    public partial class Dog
+    public partial class Dog 
     {
         public Dog()
         {
