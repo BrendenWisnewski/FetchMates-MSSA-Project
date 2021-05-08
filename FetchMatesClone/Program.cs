@@ -16,22 +16,11 @@ namespace FetchMatesClone
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-                Execute().Wait();
+                
             
         }
 
-        static async Task Execute()
-        {
-            //var apiKey = Environment.GetEnvironmentVariable("SEND_GRID_KEY");
-            var client = new SendGridClient("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");
-            var from = new EmailAddress("btwisnewski@outlook.com", "Fetch Mates CEO");
-            var subject = "Sending with SendGrid is Fun";
-            var to = new EmailAddress("btwisnewski@gmail.com", "Dog Lover");
-            var plainTextContent = "and easy to do anywhere, even with C#";
-            var htmlContent = "<strong>and easy to do anywhere, even with C#</strong>";
-            var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
-            var response = await client.SendEmailAsync(msg);
-        }
+     
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>

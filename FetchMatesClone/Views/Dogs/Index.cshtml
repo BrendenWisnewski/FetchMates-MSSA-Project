@@ -9,12 +9,10 @@
 <p>
     <a class="btn btn-dark" asp-action="Create">Add to the Pack</a>
 </p>
-<table class="table color">
+<table class="table">
     <thead>
         <tr>
-            <th>
-                Doggy ID
-            </th>
+         
             <th>
                 Dog Breed
             </th>
@@ -29,10 +27,7 @@
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.DogId)
-            </td>
+        <tr>         
             <td>
                 @Html.DisplayFor(modelItem => item.DogBreed)
             </td>
@@ -43,11 +38,12 @@
                 @Html.DisplayFor(modelItem => item.DogWeight)
             </td>
             <td>
-                <a class="btn btn-dark" asp-action="Edit" asp-route-id="@item.DogId">Edit</a> |
-                <a  class="btn btn-dark" asp-action="Details" asp-route-id="@item.DogId">Details</a> |
+                <a class="btn btn-dark" asp-action="Edit" asp-route-id="@item.DogId">Edit</a> 
+                <a  class="btn btn-dark" asp-action="Details" asp-route-id="@item.DogId">Details</a> 
                 <a  class="btn btn-dark" asp-action="Delete" asp-route-id="@item.DogId">Delete</a>
             </td>
         </tr>
 }
     </tbody>
 </table>
+

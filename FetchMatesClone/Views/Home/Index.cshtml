@@ -2,12 +2,22 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="home-try">
-    <h1 class="display-4 text-center">Welcome To Fetch Mates</h1><br/>
-    <div class="col-3">
-        <h5>The website that allows you to schedule a time to hit the dog park!</h5>
-        <p>Create a profile for your pup, then schedule a time to go to your local park! This site will give dog owners an idea of how many dogs will be at the local dog park. What are your waiting for find some new friends for your pup!</p><br />
-        <a class="btn btn-primary" asp-controller="Dogs" asp-action="Create">Create a Profile</a><br /><br />
-        <a class="btn btn-primary" asp-controller="DogParkVisits" asp-action="Create">Hit the Park</a>
+<section >
+    <div class="slider-inner">
+
+        <div class="vertical-middle">
+            <div class="container py-5">
+                <div class="emphasis-title dark m-0">
+                    <h1 style="font-size: 45px; line-height: 1.4; font-weight: 600; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);">Welcome To Fetch Mates</h1><br />
+
+                    <h4 style="font-size: 30px; line-height: 1.4; font-weight: 600; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);">Dogs need a place to play and have fun, we are here to help you find that perfect dog park!</h4> <br />
+                    <p class="font-weight-heavy d-none d-md-block text-dark " style="font-size: 16px; font-weight: bold;">This website is made by a dog owner for dog owners! Sometimes going to a dog park and meeting new pups can be stressful, we are here to relieve that stress!</p><br />
+                    <a class="btn btn-dark" asp-controller="Dogs" asp-action="Create">Create a Profile</a><span class="leftmargin-sm"> or</span>
+                    <a class="btn btn-dark" asp-controller="DogParkVisits" asp-action="Create">Hit the Park</a><span class="rightmargin-sm"></span>
+
+                </div>
+            </div>
+        </div>
+
     </div>
-</div>
+</section>

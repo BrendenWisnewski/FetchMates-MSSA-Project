@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FetchMatesClone.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FetchMatesClone.Views
 {
@@ -19,6 +20,7 @@ namespace FetchMatesClone.Views
         }
 
         // GET: DogParkVisits
+        [Authorize]
         public async Task<IActionResult> Index()
         {
             var fetchMatesDataContext = _context.DogParkVisits.Where(d => d.DayAndTime >= DateTime.Now)
@@ -46,6 +48,7 @@ namespace FetchMatesClone.Views
         }
 
         // GET: DogParkVisits/Create
+        [Authorize]
         public IActionResult Create()
         {
             ViewData["DogId"] = new SelectList(_context.Dogs, "DogId", "DogName");

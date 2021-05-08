@@ -17,15 +17,15 @@ namespace FetchMatesClone.Services
 
         public Task SendEmailAsync(string email, string subject, string message)
         {
-            return Execute(Options.SendGridKey, subject, message, email);
-        }
+            return Execute( email,  subject,  message);
+        }       
 
-        public Task Execute(string apiKey, string subject, string message, string email)
+        public Task Execute( string email, string subject, string message)
         {
             var client = new SendGridClient("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");
             var msg = new SendGridMessage()
             {
-                From = new EmailAddress("Joe@contoso.com", Options.SendGridUser),
+                From = new EmailAddress("btwisnewski@outlook.com", "Fetch Mates CEO"),
                 Subject = subject,
                 PlainTextContent = message,
                 HtmlContent = message

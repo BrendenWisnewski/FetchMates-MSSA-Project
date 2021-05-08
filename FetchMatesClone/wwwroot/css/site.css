@@ -29,23 +29,30 @@ a {
 html {
   font-size: 14px;
 }
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-
-    .bing {
-        background-attachment: fixed;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-image: url("/images/coolapple.jpg");
-        min-height: 100%;
-        font-style: initial;
-        font-family: Cooper;
-        color: aliceblue;
+@media (min-width: 768px) {}
+    html {
+        font-size: 16px;
     }
+
+.bing {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/maybenew.png");
+    min-height: 100%;
+    font-style: initial;
+    
+    font-family: Broadway;
+    color: black;
 }
+
+.blingbing {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+}
+
 
 .color{
     color:aliceblue
@@ -53,7 +60,7 @@ html {
 
 .home-try{
     color: floralwhite;
-    text-align:left
+    text-align: center
 }
 
 .border-top {

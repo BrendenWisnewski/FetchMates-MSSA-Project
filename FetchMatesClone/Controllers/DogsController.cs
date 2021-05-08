@@ -20,6 +20,7 @@ namespace FetchMatesClone.Views
         }
 
         // GET: Dogs
+        [Authorize]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Dogs.ToListAsync());

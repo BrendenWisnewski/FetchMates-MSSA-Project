@@ -379,3 +379,9 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.csprojAssemblyReference.cache
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SendGrid.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
