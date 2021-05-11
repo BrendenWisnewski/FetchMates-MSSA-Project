@@ -18,7 +18,18 @@
             </div>
             <div class="form-group">
                 <label asp-for="ParkName" class="control-label"></label>
-                <input asp-for="ParkName" class="form-control" />
+                <select asp-for="ParkName" class="form-control">
+                    <option>Rancho Bernardo</option>
+                    <option>Rancho Penasqiutos</option>
+                    <option>Escondido</option>
+                    <option>Poway</option>
+                    <option>4S Ranch</option>
+                    <option>Miramar</option>
+                    <option>Mira Mesa</option>
+                    <option>Ocean Beach</option>
+                    <option>Del Mar Beach</option>
+                    <option>Coronado Beach</option>
+                </select>
                 <span asp-validation-for="ParkName" class="text-danger"></span>
             </div>
             <div class="form-group">
