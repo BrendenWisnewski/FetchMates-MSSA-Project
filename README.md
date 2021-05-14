@@ -93,11 +93,11 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 
 |Test ID|Requirement ID|Test Procedure|Status|Time Completed|
 |---:|:---|:---|:---:|:---|
-|1|1|Validate login in credentials|not completed| |
-|2|2.0, 2.1, 2.3, 2.3|Validate correct information is being inputted in the text fields|not completed| |
-|3|2.4|Build tests to check that approriate profiles are being matched with the similar personalities|not completed| |
-|4|3.1|Build tests to verify that user responses are visiable on the map|not completed| |
-|5|3.3, 3.4|Validate user input times and allow overlapping of other user times|not completed| |
+|1|1|Validate login in credentials|not completed|completed 5/13/2021 |
+|2|2.0, 2.1, 2.3, 2.3|Validate correct information is being inputted in the text fields|not completed|completed 5/13/2021 |
+|3|2.4|Build tests to check that approriate profiles are being matched with the similar personalities|not completed|not implemented |
+|4|3.1|Build tests to verify that user responses are visiable on the map|not completed|not implemented |
+|5|3.3, 3.4|Validate user input times and allow overlapping of other user times|not completed|completed 5/13/2021 |
 
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
