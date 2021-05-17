@@ -9,6 +9,7 @@ This is my project for MSSA, FetchMates, a dog park scheduling app
 4. [Test Procedures](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#testing)
 5. [Prototype](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#prototype)
 6. [Database In Action](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#database-in-action)
+7. [Final Notes](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#final-notes)
 
 
 ## Concept
