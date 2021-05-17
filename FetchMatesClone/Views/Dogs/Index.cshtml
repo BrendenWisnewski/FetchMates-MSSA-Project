@@ -38,9 +38,9 @@
                 @Html.DisplayFor(modelItem => item.DogWeight)
             </td>
             <td>
-                <a class="btn btn-dark" asp-action="Edit" asp-route-id="@item.DogId">Edit</a> 
-                <a  class="btn btn-dark" asp-action="Details" asp-route-id="@item.DogId">Details</a> 
-                <a  class="btn btn-dark" asp-action="Delete" asp-route-id="@item.DogId">Delete</a>
+                <a class="fas fa-edit" asp-action="Edit" asp-route-id="@item.DogId"></a> 
+                <a  class="fas fa-dog" asp-action="Details" asp-route-id="@item.DogId"></a> 
+                <a  class="fas fa-trash" asp-action="Delete" asp-route-id="@item.DogId"></a>
             </td>
         </tr>
 }

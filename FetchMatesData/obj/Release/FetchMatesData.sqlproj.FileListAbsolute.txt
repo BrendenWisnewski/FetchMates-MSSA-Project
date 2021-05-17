@@ -1,0 +1,9 @@
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Release\FetchMatesData.dacpac
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Release\FetchMatesData.dll
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Release\FetchMatesData.pdb
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Release\Model.xml
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Release\refactor.xml
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Release\postdeploy.sql
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Release\predeploy.sql
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Release\FetchMatesData.dll
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Release\FetchMatesData.pdb

@@ -242,10 +242,12 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SendGrid.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SQLitePCLRaw.core.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\StarkbankEcdsa.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\System.Composition.Convention.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\System.Composition.Hosting.dll
@@ -349,6 +351,12 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.TagHelpers.input.cache
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.TagHelpers.output.cache
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.RazorCoreGenerate.cache
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\DogParkVisits\Create.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\DogParkVisits\Delete.cshtml.g.cs
@@ -361,7 +369,6 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\Dogs\Edit.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\Dogs\Index.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -377,11 +384,4 @@ C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.pdb
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.genruntimeconfig.cache
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\FetchMatesClone.csprojAssemblyReference.cache
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\SendGrid.dll
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\StarkbankEcdsa.dll
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesClone\bin\Debug\net5.0\libman.json

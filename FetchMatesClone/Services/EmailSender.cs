@@ -22,10 +22,10 @@ namespace FetchMatesClone.Services
 
         public Task Execute( string email, string subject, string message)
         {
-            var client = new SendGridClient("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");
+            var client = new SendGridClient("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");
             var msg = new SendGridMessage()
             {
-                From = new EmailAddress("btwisnewski@outlook.com", "Fetch Mates CEO"),
+                From = new EmailAddress("fetchmatesCEO@gmail.com", "Fetch Mates CEO"),
                 Subject = subject,
                 PlainTextContent = message,
                 HtmlContent = message
