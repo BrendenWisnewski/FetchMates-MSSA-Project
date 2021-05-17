@@ -14,6 +14,8 @@ This is my project for MSSA, FetchMates, a dog park scheduling app
 ## Concept
 I am a dog father of two dogs, dog lover, and a dog park enthusiast. I love going to the dog park but hate going to an empty dog park. This app would allow you to schedule dog park times and give you an idea of how many other dogs will be at the park near you (San Diego Focused). Also, it will allow you to create a profile for your dog and connect with other dogs that have a similar personality to your dog. The goal is to connect with other dog owners and be an informed dog park goer. 
 
+[Check out the webpage here!](https://fetchmates.azurewebsites.net/)
+
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
 ## Wireframe Sketches
@@ -139,5 +141,26 @@ This is the park scheduling simple concept. Using a calender the user can schedu
 ### Schedule a Park Time
 ![schedule](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/Images/Database%20in%20Action/Creating%20a%20Dog%20Park%20Visit.jpg)
 
+
+[To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
+
+
+## Final Notes
+
+### What did I do right?
+
+By keeping my project small and manageable, I believe that it was the right move. I decided to work with two tables of data that I wanted to collect; I did not want to collect to much user data since this is simply a dog scheduling app. With having those two tables, I used the database first approach and scaffolded my models. At the end of the day, I believe I could have done more with this website, but with the time we had and knowledge I now have, I am happy with what I put together. 
+
+### What did I do wrong?
+
+I did many things wrong and just recently made a big mistake in trying to hide api keys and really messing up my project on git hub, but luckily, its working great in the cloud! At first I did not hide my api keys and got my send grid account deactivated and could not use it to send emails to new users. One lesson learned is utilize user secrets and hide your keys. Another area I went wrong is not using a different bootstrap for styling. I learned a lot about using bootstrap from other projects and actually helping other students in the class but I never implemented a different bootstrap on my own. 
+
+### Where was I lucky?
+
+I was very lucky today, Monday the 17th of May as I am writing this. I completely messed up my project in git hub while trying to hide certain files and creating my own git ignore. It went very wrong, and the branch is very broken but luckily my project is working the way I want to on the cloud, so for that I am very lucky. Also, I am very lucky that I took a simple approach with two tables and utilized scaffolding. My project was up and running quickly and performing the edits I needed to perform were manageable.
+
+### What would I have changed?
+
+I would not have changed to much; I chose a project I am passionate about and that I was driven to build. I would change the layout and the profile view. It is not very fancy looking, and I would like to have more to the actual profile view. Knowing what I know now about bootstrap, I would have utilized it way more in my layouts. Once I had an up and running project that I was happy with I did not want to make any last-minute changes that would potentially break my project.
 
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
