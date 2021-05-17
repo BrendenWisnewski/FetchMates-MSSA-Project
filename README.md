@@ -99,6 +99,10 @@ Given that not all dogs are friendly when there are dogs who do not enjoy dogs b
 |4|3.1|Build tests to verify that user responses are visiable on the map|not completed|not implemented |
 |5|3.3, 3.4|Validate user input times and allow overlapping of other user times|not completed|completed 5/13/2021 |
 
+## Test Metrics
+
+Currently I have 9 requirements being tested out of the 12, which is 75% of my requirements being tested. 78% of the testable requirements are passing as of now; 7 out of the 9. The two requirements that are not being tested have not been implemented yet. Out of the tests that are passing, I am confident that the tests would pass validation. 
+
 [To Top](https://github.com/BrendenWisnewski/FetchMates-MSSA-Project/blob/main/README.md#fetchmates-mssa-project)
 
 ## Prototype
