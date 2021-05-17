@@ -8,6 +8,7 @@ namespace FetchMatesClone.Services
 {
     public class EmailSender : IEmailSender
     {
+        private string _theKey = null;
         public EmailSender(IOptions<AuthMessageSenderOptions> optionsAccessor)
         {
             Options = optionsAccessor.Value;
@@ -22,6 +23,7 @@ namespace FetchMatesClone.Services
 
         public Task Execute( string email, string subject, string message)
         {
+            
             var client = new SendGridClient("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");
             var msg = new SendGridMessage()
             {

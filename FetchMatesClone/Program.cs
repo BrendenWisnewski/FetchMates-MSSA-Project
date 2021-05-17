@@ -15,7 +15,17 @@ namespace FetchMatesClone
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            var host = new HostBuilder()
+            .ConfigureAppConfiguration((hostContext, builder) =>
+            {
+                // Add other providers for JSON, etc.
+
+                if (hostContext.HostingEnvironment.IsDevelopment())
+                {
+                    builder.AddUserSecrets<Program>();
+                }
+            }).Build();
+            host.Run();
                 
             
         }
