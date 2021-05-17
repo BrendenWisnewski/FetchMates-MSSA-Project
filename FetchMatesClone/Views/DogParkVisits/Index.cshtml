@@ -37,9 +37,9 @@
                 @Html.DisplayFor(modelItem => item.Dog.DogName)
             </td>
             <td>
-                <a class="fas fa-edi" asp-action="Edit" asp-route-id="@item.VisitId"></a> 
-                <a class="fas fa-dog" asp-action="Details" asp-route-id="@item.VisitId">Details</a> 
-                <a class="fas fa-trash" asp-action="Delete" asp-route-id="@item.VisitId">Delete</a>
+                <a class="btn btn-dark" asp-action="Edit" asp-route-id="@item.VisitId">Edit</a> 
+                <a class="btn btn-dark" asp-action="Details" asp-route-id="@item.VisitId">Details</a> 
+                <a class="btn btn-dark" asp-action="Delete" asp-route-id="@item.VisitId">Delete</a>
             </td>
         </tr>
 }

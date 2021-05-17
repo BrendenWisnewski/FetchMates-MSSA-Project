@@ -56,7 +56,6 @@ namespace FetchMatesClone.Views
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Authorize]
         public async Task<IActionResult> Create([Bind("DogId,DogBreed,DogName,DogWeight")] Dog dog)
         {
             if (ModelState.IsValid)

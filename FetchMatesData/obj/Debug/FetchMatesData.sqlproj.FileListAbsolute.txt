@@ -4,11 +4,12 @@ C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\bin\Debu
 C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\obj\Debug\FetchMatesData.dll
 C:\Users\btwis\OneDrive\Documents\Microsoft Press\source\FetchMatesData\obj\Debug\FetchMatesData.pdb
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Debug\FetchMatesData.dacpac
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Debug\FetchMatesData.dll
-C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Debug\FetchMatesData.pdb
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\FetchMatesData.sqlprojAssemblyReference.cache
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\Model.xml
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\refactor.xml
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\postdeploy.sql
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\predeploy.sql
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\FetchMatesData.dll
 C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\obj\Debug\FetchMatesData.pdb
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Debug\FetchMatesData.dll
+C:\Users\btwis\OneDrive\Documents\GitHub\FetchMates-MSSA-Project\FetchMatesData\bin\Debug\FetchMatesData.pdb
